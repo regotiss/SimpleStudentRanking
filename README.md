@@ -1,6 +1,5 @@
 
-
-Simple Student Ranking Console Application
+#Simple Student Ranking Console Application
 
 Problem Statement :
 Implement a Student Ranking System (the code must handle each of the
